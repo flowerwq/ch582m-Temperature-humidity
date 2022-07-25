@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.577322557/LD_SCRIPT_PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.577322557/LD_SCRIPT_PATH/operation=append
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.577322557/LD_SCRIPT_PATH/value=${PROJECT_LOC}/ld/release
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.577322557/append=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.577322557/appendContributed=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074/LD_SCRIPT_PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074/LD_SCRIPT_PATH/operation=append
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074/LD_SCRIPT_PATH/value=${PROJECT_LOC}/ld
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074/append=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074/appendContributed=true

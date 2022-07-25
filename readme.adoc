@@ -1,0 +1,12 @@
+= ch582-app
+岳琦丰 <1556607874@qq.com>
+:sectnums!:
+:hardbreaks:
+
+
+本项目基于ch852M，对ch582m的一些基础功能进行了封装。
+
+可用模块如下：
+
+* gpio
+* uart
